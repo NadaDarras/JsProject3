@@ -1,0 +1,31 @@
+[{
+        "Title": "The Lion King",
+        "director": "sami",
+        "release_year": "2019",
+        "genre": "cartoon"
+    },
+    {
+        "Title": "Mowgli: Legend of the Jungle",
+        "director": "mohammad",
+        "release_year": "2018",
+        "genre": "action "
+    },
+    {
+        "Title": "Doctor Strange",
+        "director": "johan",
+        "release_year": "2016",
+        "genre": "drama"
+    },
+    {
+        "Title": "John Wick",
+        "director": "alex",
+        "release_year": "2014",
+        "genre": "darma "
+    },
+    {
+        "Title": "The Notebook",
+        "director": "jacob",
+        "release_year": "2004",
+        "genre": "romance"
+    }
+]
